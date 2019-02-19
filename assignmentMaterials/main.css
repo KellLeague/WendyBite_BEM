@@ -89,3 +89,7 @@
   .height-450px {
     height: 450px;
   }
+  .container{
+    display: flex;
+    justify-content: space-around;
+  }
